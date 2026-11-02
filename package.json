@@ -1,0 +1,13 @@
+{
+  "name": "@geode/audit-correlator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "audit-correlator": "./bin/cli.ts"
+  },
+  "scripts": {
+    "test": "bun test"
+  },
+  "dependencies": {}
+}
